@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 864ec77d2c0217a47aec98d143cda7cf, type: 3}
+  m_Name: Sword4
+  m_EditorClassIdentifier: 
+  <Model>k__BackingField: {fileID: 5212657756440901634, guid: 7da837487b20de54d8ffb09aeb79cd51, type: 3}
+  <Image>k__BackingField: {fileID: 1459150764, guid: 663babd3c8965f4408d0ec3111a9a64e, type: 3}
+  <Price>k__BackingField: 2000
+  <SkinType>k__BackingField: 3

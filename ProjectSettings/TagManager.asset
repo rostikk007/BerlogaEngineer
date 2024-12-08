@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GeneratedObject
+  - Enemy
+  - Square
+  - Buildings
+  - Setka
+  - Decorations
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Setka
+  - Tree
+  - Player
+  - GeneratedObjects
+  - Enemy
+  - Turrets
+  - Buildings
+  - Bullets
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 3856990389
+    locked: 0
+  - name: 2
+    uniqueID: 2096328227
+    locked: 0
+  - name: 3
+    uniqueID: 2155930777
+    locked: 0
+  - name: 4
+    uniqueID: 2370180911
+    locked: 0
+  - name: 5
+    uniqueID: 2797481533
+    locked: 0
+  - name: Buildings
+    uniqueID: 3386833635
+    locked: 0
+  - name: Turrets
+    uniqueID: 1691078055
+    locked: 0
+  - name: Enemy
+    uniqueID: 663648291
+    locked: 0
+  - name: Player
+    uniqueID: 580552287
+    locked: 0
+  - name: Kapsula
+    uniqueID: 2278629983
+    locked: 0
+  - name: Bullets
+    uniqueID: 1750277007
+    locked: 0
